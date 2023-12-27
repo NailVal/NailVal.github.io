@@ -15,7 +15,7 @@ body {
 }
 
 .img_container {
-    background-image: url(../paint_pallete.webp);
+    background-image: url(main/paint_pallete.webp);
     height: 600px;
 }
 
